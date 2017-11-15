@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: shishi295163@163.com
 description: "个人博客 Yeah!"
 keyword: "syc, blog"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://shiyachao295.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease setttings
 netease_comment: false
